@@ -1,6 +1,6 @@
 
 
-# Syllabus | Interactive Media 1, MART 340
+# Interactive Music 1; Installation<br/>(--course #--)<br/>Syllabus
 
 Date modified: 2017-09-05
 
@@ -21,6 +21,7 @@ Date modified: 2017-09-05
 	- [Plagiarism & Cheating Policy](#plagiarism--cheating-policy)
 	- [Students with Disabilities](#students-with-disabilities)
 	- [Changes to the Course](#changes-to-the-course)
+- [Schedule](#schedule)
 
 
 # COURSE OVERVIEW
@@ -58,10 +59,11 @@ Students are expected to bring ideas to explore with these techniques. The goals
 
 ## Course Websites
 
-- [Course GitHub Repo](https://github.com/Montana-Media-Arts/340-fall2017) (This git repository holds code examples, an issues board, as well as course Wiki.)
-- [Direct Link to Course Wiki](https://github.com/Montana-Media-Arts/340-fall2017/wiki)
-- [mart340 Slack Channel](https://um-interactive-media.slack.com)
-    - Slack is a communication tool used in industry, startups, and art teams. We will be trying it this semester as our primary tool of communication for the class. You are **REQUIRED** to participate in Slack and check it regularly. (I would encourage you to download the Slack app for your computer and mobile devices.)
+- [Course GitHub Repo](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo)
+- [Syllabus](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/blob/master/Syllabus.md)
+    - This is were all course materials will be located.
+- [Slack Channel](./)
+    - Slack is a communication tool used in industry, startups, and art teams. We will use this as our primary tool of communication for the class. You are **REQUIRED** to participate in Slack and check it regularly. (I would encourage you to download the Slack app for your computer and mobile devices.)
     
 
 
@@ -84,7 +86,7 @@ Coding is hard. But, messy code, documents, and files will make it more difficul
 
 **Collaboration**
 
-This course will heavily utilize collaboration. You will need to work with your fellow classmates in order to be succesful.
+This course will heavily utilize collaboration. You will need to work with your fellow classmates in order to be successful.
 
 
 ## Pre-Requisite Knowledge, Experience, & Technology
@@ -107,28 +109,27 @@ There are no required texts or supplies for this course. However, you will be ex
 Students work and progress will be assessed through;
 
 - Projects
-	- These will be assigned throughout the semester and relate to the current topics being discussed.
+	- There will be three assigned installation projects throughout the block that relate to the current topics being discussed.
 - Writing
-	- You will be expected to produce individual reports/paper for each project completed this semester.
-	- You will be asked to submit a number of personal reflection / contribution write-ups throughout the semester.
+	- You will be expected to produce individual reports/paper for each project completed this block.
+- Project Documentation
+	- Each project will require project documentation, including a demo video, portfolio page, and code.
 - Class participation via group problem solving, support, and forum discussions.
 
 
 #### Projects
 
-We will have projects throughout the course that are relevant to material from recent content. These are required and you will need to talk about them in your technical reports.
-
-Homework will be submitted via the medium that makes the most sense for the project (i.e. Moodle, GitHub, etc.).
+We will have three projects throughout the course that are relevant to material from recent content. These are required and you will need to talk about them in your technical reports.
 
 Grades for all assignments will be based primarily on the student’s ability to:
 
 1.  Demonstrate an understanding of the specific characteristics and integrative capabilities of the assigned topic in your own words and code.
 2.  Articulate a clear and concise perspective. Cutting and pasting or copying word for word off the Internet will result in loss of points.
-3.  Present an organized file/program, as well as technical report; including proper and punctual delivery of the assignment files.
+3.  Present an organized file/program, as well as technical report, portfolio page, and demo video; including proper and punctual delivery of the assignment files.
 4.  Demonstrate creativity beyond the expected technical requirements.
 
 
-IMPORTANT: Assignments handed in after the due date and time will have points deducted for lateness. This will be in addition to any points deducted for content. Those that are uploaded late but within one week of the due date will lose 5% for lateness.  For those uploaded after that, the number of deducted points will be at the discretion of the faculty.
+IMPORTANT: Assignments handed in after the due date and time will have points deducted for lateness. This will be in addition to any points deducted for content. Those that are uploaded late but within one day of the due date will lose 5% for lateness.  For those uploaded after that, the number of deducted points will be at the discretion of the professor.
 
 
 #### Participation
@@ -137,11 +138,9 @@ This class will be participatory, you are expected to participate in discussions
 
 #### Final Project
 
-This course will culminate with final projects. You are expected to push your abilities to produce something that utilizes what you have learned in the class that is useful in some manner to yourself or the world.
+This course will culminate with a final project. You are expected to push your abilities to produce something that utilizes what you have learned in the class that is useful in some manner to yourself or the world.
 
 **Required:** Please note, the final project is required. Failure to complete a final project will result in a letter grade of F for the course. This is regardless of the students current grade standing in the course. There are no exceptions to this policy.
-
-
 
 
 
@@ -153,8 +152,8 @@ Grades will be determined according to the following breakdown:
 
 - Sketches 30%
 - Show & Tell presentations: 5%
-- In-class discussions (readings & roundtable feedback), critiques: 5%
-- Self-assessments and roundtable presentations: 5%
+- In-class discussions (readings & round-table feedback), critiques: 5%
+- Self-assessments and round-table presentations: 5%
 - Project 1: Change a Space: 10%
 - Project 2: Midterm: Interactive Installation 20% (5% Prototype, 15% Midterm)
 - Project 3: Final Project: 25% (10% Prototype, 15% Final)
@@ -173,6 +172,7 @@ Letters are assigned according to the following final course percentages:
 | C- 	| 70-73		|
 | D  	| 60-70		|
 | F  	| 0-59		|
+
 
 #### Project Grades
 
@@ -215,7 +215,7 @@ Please read examples of each assessment point below to get an idea of my expecta
 
 ## Plagiarism & Cheating Policy
 
-Students are expected to adhere to academic conduct policies of the University of Montana as explained in the [Student Conduct Code](http://www.umt.edu/vpesa/). All students should act with personal integrity, respect other students’ dignity, rights, and property, and help create and maintain an environment in which all can succeed.
+Students are expected to adhere to academic conduct policies of the University, as explained in the [Student Conduct Code](#). All students should act with personal integrity, respect other students’ dignity, rights, and property, and help create and maintain an environment in which all can succeed.
 
 Dishonesty will not be tolerated in this course. This includes, but is not limited to, cheating on tests, cheating on assignments, fabricating information or citations, having unauthorized possession of examinations, submitting work of another person or work previously used, or tampering with the academic work of other students.
 
@@ -225,7 +225,7 @@ Students who cheat or plagiarize will receive academic sanctions, which may incl
 
 #### Using Code Found Elsewhere
 
-It's super easy to find code online. If you use code from elsewhere (which you will at times), I expect you to site the work and author, as well as to comment each line, as to what each line does programmatically. Do *not* summarize several lines of code from a high level (ie, TV Guide). I expect you to comment each line on a granular level. In addition in these cases, I am also looking for significant modification of the code, for you to enact your own ideas and to experiment heavily. Significant modification means beyond variable name and value changes. It's bending these concepts to your idea, especially graphically. It's not a copy and paste job.
+It's super easy to find code online. If you use code from elsewhere (which you will at times), I expect you to cite the work and author, as well as to comment each line, as to what each line does programmatically. _Do not_ summarize several lines of code from a high level (ie, TV Guide). I expect you to comment each line on a granular level. In addition, in these cases, I am also looking for significant modification of the code, for you to enact your own ideas and to experiment heavily. Significant modification means beyond variable name and value changes. It's bending these concepts to your idea, especially graphically. It's not a copy and paste job.
 
 Also, never more than 40% of your code may be supplied from elsewhere. Period.
 
@@ -243,3 +243,266 @@ The University of Montana assures equal access to instruction through collaborat
 ## Changes to the Course
 
 I reserve the right to change the intended content of this course throughout the semester. This may be done to adjust for the speed of the class, to better meet educational goals, or to account for changes in technology.
+
+
+<br/><br/><br/>
+
+---
+
+<br/><br/>
+
+
+
+# Schedule
+
+
+
+## Day 1
+
+- Course Overview
+- Syllabus
+- Required Texts and Supplies
+- Discussion of Technologies and Tools
+	- GitHub Repository
+	- Setup Slack
+	- Possible Software
+	- Physical Computing
+	- Microphones, Speakers, Audio Interfaces, and Controllers
+- Assign ["Show & Tell"](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/ShowAndTell/)
+- [Project 1 Launch](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_1/)
+- Discussion of Day 2
+
+
+
+## Day 2
+
+- Discussion, "What is an Interactive Experience"
+	- Please read:
+		- Saltz, David Z. 1997. “The Art of Interaction: Interactivity, Performativity, and Computers.” Journal of Aesthetics and Art Criticism 55 (2): 117–27. doi:10.2307/431258.
+			- [http://www.embodiedimmersion.com/wp-content/uploads/2013/01/Art+of+interaction.pdf](http://www.embodiedimmersion.com/wp-content/uploads/2013/01/Art+of+interaction.pdf)
+		- Edmonds, Ernest. 2010. “The Art of Interaction.” Digital Creativity 21 (4): 257–64. doi:10.1080/14626268.2010.556347.
+			- [http://userpages.umbc.edu/~skane/classes/is760/fall2011/papers/Edmonds2010.pdf](http://userpages.umbc.edu/~skane/classes/is760/fall2011/papers/Edmonds2010.pdf)
+- Discussions & presentations of Project 1 sketches.
+- Show & Tell - Presentation 1; Jeffery Shaw & Myron Kruger (pioneers)
+
+**Due:**
+
+- Project 1 sketches.
+
+
+
+## Day 3
+
+- Class discussion of _Installation Art_
+    - Please read: 
+        - "Introduction: Installation Art and Experience" from, 
+            - Bishop, Claire. _Installation Art_. London, UK: Tate, 2010.
+        - Available from the course slack channel.
+- Documenting Installation Art, Interactive Art, and Sound Art.
+- project 1 check-ins and work with remaining class time.
+- Show & Tell - Presentation 2; United Visual Artist & SOFTLab
+
+
+
+## Day 4 (Crit Day)
+
+- Project 1 presentations, walk-around, and critique
+
+**Due:**
+
+- Project 1 Installation Presentation
+
+
+
+## Day 5
+
+- Class discussion of _Sound Art_
+    - Please read:
+        - "Introduction; At, Out, About" from,
+            - Kim-Cohen, Seth. _In the Blink of an Ear: Toward a Non-Cochlear Sonic Art_. New York, New York, USA: The Continuum International Publishing Group Inc, 2009.
+            - Available from the class Slack channel
+        - Ella, Delany. “The Power of Sound as an Art Form.” The New York Times, 3 Oct. 2013. 
+            - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
+- Show & Tell - Presentation 3; Sabrina Raaf & David Rokeby (interactive installations)
+
+
+
+
+- Class discussion of Roy Ascott: “The Cybernetic Stance: My Process and Purpose.”
+    - [Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.” Leonardo, vol. 40, no. 2, 2007, pp. 189–197. JSTOR, JSTOR, www.jstor.org/stable/20206383.](https://www.jstor.org/stable/20206383)
+    - Note: This should be freely downloadable while you are signed in to the library or on campus.
+
+
+
+
+
+## Day 5
+
+**In-Class (Monday):**
+
+- Watch Project 1 Demo Videos
+    - Discuss success, quality, & future approaches.
+- ["Project 2"](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/) Launch
+- Show & Tell - Presentation 4; Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
+
+
+**Due:**
+
+- Project 1, Documentation Submissions.
+    - E-mail me per ["Submission Info"](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Documentation_and_Response#submission)
+
+**In-Class (Wednesday):**
+
+- Class discussion of "Systems Ethetics"
+    - Burnham, Jack. “Systems Esthetics.” Artforum 7.1 (1968): 30–35.
+    - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
+- Review Project 2 Groups.
+- Project 2, Instructions for next Monday & Wednesday.
+- More with Processing
+
+
+## Day 6
+
+**In-Class (Monday):**
+
+- Presentation 5
+    - Camille Utterback & Tangible Interaction (interactive installations)
+    - Laura
+- Class discussion of "Real Time Systems"
+    - Burnham, Jack. “Real Time Systems.” Artforum 8.1 (1969): 49–55.
+    - [Available on Monoskop](https://monoskop.org/images/b/bb/Burnham_Jack_1969_Real_Time_Systems.pdf)
+
+
+**In-Class (Wednesday):**
+
+- Sketch Presentations and Discussion of [Project 2](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/)
+
+
+## Day 7
+
+**In-Class (Monday):**
+
+- Presentation 6
+    - Electroland & YesYesNo (interactive installations)
+    - Chris
+- Class discussion of "The Work of Art in the Age of Mechanical Reproduction"
+    - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” (1936)
+    - [Available from](./resources/articles/Benjamin_1936_WorkOfArt.pdf)
+- Computer Vision / openCV & Processing
+    - Start w/ chapter 16 from "Learning Processing" by Shiffman
+    - [Video & openCV - Processing Tutorial Playlist - Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bw0bVn4M63p8TMJf3OhGy8)
+
+**In-Class (Wednesday):**
+
+- Class discussion of "Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers"
+    - Levin, Golan. “Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers.” AI and Society 20.4 (2006): 462–482.
+    - Available from;
+        - [_FLONG._ as a web page](http://www.flong.com/texts/essays/essay_cvad/)
+        - or [as a PDF](./resources/articles/Levin_2006_ComputerVision.pdf)
+- Cont'd exploration of Computer Vision w/ openCV
+
+
+## Day 8
+
+
+**In-Class (Monday):**
+
+- Presentation 7
+
+- Class
+
+
+
+**In-Class (Wednesday):**
+
+_Notes: Prof. Musick in South Korea_
+
+- Class
+
+
+## Day 9
+
+_Notes: Prof. Musick in South Korea_
+
+**In-Class (Monday):**
+
+- Class
+    -
+
+
+**In-Class (Wednesday):**
+
+- Class
+
+
+## Day 10
+
+NOTE: Project 2 presentations during this Day.
+
+**In-Class (Monday):**
+
+- Presentation 7
+    - Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun)
+    - Garrett
+- Class
+    -
+
+
+**In-Class (Wednesday):**
+
+- Class
+
+
+## Day 11
+
+**In-Class (Monday):**
+
+- Quick Discussion of Dr. Musick in S. Korea
+- Status Discussion of Project 2
+    - Issues, problems, & help?
+- Logistics for Tuesday Night Presentation
+- Introductory Discussion to Project 3
+
+
+**In-Class (Wednesday):**
+
+- Formal Critique of Project 2
+
+
+## Day 12
+
+**In-Class (Monday):**
+
+
+- Presentation 9
+    - Design I/O & Golan Levin (playful)
+    - Anna
+- Begin Formal Planning of Project 3
+
+
+**In-Class (Wednesday):**
+
+- Please read; [Morse, Margaret. "The Poetics of Interactivity". Women, Art, and Technology. The MIT Press. 2003.](http://www.immersence.com/publications/2003/2003-Mmorse-full.html)
+
+
+## Day 13
+
+**In-Class (Monday):**
+
+- Presentation 10
+    - The Explorartorium & Disney Research (Design for others)
+    - Marc
+- Prof. Musick, documentation of South Korea trip, and "Seoul Sound[e]scapes" Installation.
+
+**In-Class (Wednesday):**
+
+
+
+
+
+# Cut Out 
+
+Do at Home:
+
+- [Watch "Welcome to Processing" w/ Daniel Shiffman](https://vimeo.com/140600280)
+- Download [Processing](https://processing.org)

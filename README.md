@@ -1,35 +1,52 @@
-# Interactive Media 1 (MART 340)  |  Fall 2017
+# Interactive Music 1; Installation (--course #--)
 
 
 ## Professor/Instructor
 
-- [Professor Michael Musick](https://michaelmusick.github.io/teaching)
-- E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
-- Office: McGill Hall, 232.
+- [Professor Michael Musick](http://michaelmusick.com)
+- E-Mail: [michael@michaelmusick.com](mailto:michael@michaelmusick.com).
+- Office: ---
 
 
 ## COURSE OVERVIEW
 
-The primary goal for this course is to explore the theory and technique of creating interactive experiences. This may include;
+_Interactive Music 1; Installation, explores the theory and technique of interactive music and art._
 
-- Interactive art systems
-- Interactive website design
-- User interaction design
-- Installation art
-- Game design
+What is interactivity? What does it mean to create meaningful interactive experiences? In this hands-on course, students will learn how to create interactive installations and environments, with a primary focus on music and sound. We will talk about what it means to create an interactive experience for general participants. Scale, space, and time will be explored with reference to the body, while creating cybernetic systems for real-time and time-based interaction. Software, electronics, and physical computing will be covered in a workshop style format, with the goal of students creating physical projects. A variety of input and output mechanisms, networking, and best practices will be covered in workshops. Class discussions will cover readings about interactive music/art, design, space, and` installation. Students are free to explore their own ideas/concepts through the lens of this course.
 
-This course will include a mix of reading, discussion, interactive development, projects, and tests. As this is an intensive course in a developing area, students are expected to be in class and to participate.
+This course will include a mix of reading, discussion, interactive development, projects, and tests.
 
-#### Fall 2017
+As this is an intensive course in a developing area, students are expected to be in class and to participate.
 
-For this iteration of the course (Fall 2017), we will focus primarily on installation art.
+
+### Objectives
+
+Through this course, students are expected to;
+
+- Gain a vocabulary and understanding about interactive theory.
+- Become versed in some of the tools and techniques available for the creation of interactive installations, including;
+    - real-time digital signal processing
+    - data capture, may include;
+        - symbolic Instruments (MIDI)
+        - audio signals via microphones
+        - physical computing (buttons, sensors, or basic electronics)
+        - computer vision (edge detection, face recognition)
+- Understand experience differences for various types of installations;
+    - installations for 1 person vs. many people
+    - time dependent or input dependent installations
+- Be capable of describing the difference between reactive, interactive, and dynamically changing systems.
+- Walk away with at least two portfolio quality works completed and presented.
+
+Students are expected to bring ideas to explore with these techniques. The goals of the projects are not simply about the successful application of the technical processes. Instead, the goal is to integrate these technical elements to make work that is about something.
 
 
 ## Links
 
-- [Syllabus](https://github.com/Montana-Media-Arts/340-fall2017/tree/master/Syllabus.md)
-- [Course GitHub Repo](https://github.com/Montana-Media-Arts/340-fall2017)
-- [mart340 Slack Channel](https://um-interactive-media.slack.com)
+- [Syllabus](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/blob/master/Syllabus.md)
+- [Course GitHub Repo](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo)
+    - This is were all course materials will be located.
+- [Slack Channel](./)
+    - Slack is a communication tool used in industry, startups, and art teams. We will use this as our primary tool of communication for the class. You are **REQUIRED** to participate in Slack and check it regularly. (I would encourage you to download the Slack app for your computer and mobile devices.)
 
 
 # Weekly Breakdown

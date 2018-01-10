@@ -8,7 +8,7 @@ Date modified: 01-08-2018
 
 - [Course Overview](#course-overview)
     - [Description](#description)
-	- [Professor/Instructor](#professorinstructor)
+	- [About the Professor](#professorinstructor)
 	- [Course Websites](#course-websites)
 	- [Pre-Requisites](#pre-requisites)
 	- [Books & Supplies](#books--supplies)
@@ -28,38 +28,37 @@ Date modified: 01-08-2018
 
 _Interactive Music 1; Installation_ explores the theory and technique of interactive music and art.
 
-What is interactivity? What does it mean to create meaningful interactive experiences? In this hands-on course, students will learn how to create interactive installations and environments, with a primary focus on music and sound. We will talk about what it means to create an interactive experience for general participants. Scale, space, and time will be explored with reference to the body, while creating cybernetic systems for real-time and time-based interaction. Software, electronics, and physical computing will be covered in a workshop style format, with the goal of students creating physical projects. A variety of input and output mechanisms, networking, and best practices will be covered in workshops. Class discussions will cover readings about interactive music/art, design, space, and` installation. Students are free to explore their own ideas/concepts through the lens of this course.
+What is interactivity? What does it mean to create meaningful interactive experiences? In this hands-on course, students will learn how to create interactive installations and environments, with a primary focus on music and sound. We will talk about what it means to create an interactive experience for general participants. Scale, space, and time will be explored with reference to the body, while creating cybernetic systems for real-time and time-based interaction. Software, electronics, and physical computing will be discussed, with the goal of students creating physical projects. A variety of input and output mechanisms, networking, and best practices will be covered in lecture. Class discussions will cover readings about interactive music/art, design, space, and installation. Students are free to explore their own ideas through the lens of this course.
 
 This course will include a mix of reading, discussion, interactive development, projects, and tests.
 
-As this is an intensive course in a developing area, students are expected to be in class and to participate.
 
 
 ### Objectives
 
 Through this course, students are expected to;
 
-- Gain a vocabulary and understanding about interactive theory.
+- Gain a vocabulary and understanding about interactive theory
 - Become versed in some of the tools and techniques available for the creation of interactive installations, including;
     - real-time digital signal processing
-    - data capture, may include;
-        - symbolic Instruments (MIDI)
+    - data capture, including;
+        - symbolic instruments (MIDI)
         - audio signals via microphones
         - physical computing (buttons, sensors, or basic electronics)
         - computer vision (edge detection, face recognition)
 - Understand experience differences for various types of installations;
-    - installations for 1 person vs. many people
-    - time dependent or input dependent installations
-- Be capable of describing the difference between reactive, interactive, and dynamically changing systems.
-- Walk away with at least two portfolio quality works completed and presented.
+    - installations for one person vs. many people
+    - time-dependent or input-dependent installations
+- Describe the difference between reactive, interactive, and dynamically changing systems.
+- Walk away with at least two portfolio quality works completed and presented
 
-Students are expected to bring ideas to explore with these techniques. The goals of the projects are not simply about the successful application of the technical processes. Instead, the goal is to integrate these technical elements to make work that is about something.
+Students are expected to bring ideas to explore these techniques. The goals of the projects are not simply about the successful application of the technical processes. Instead, the goal is to integrate these technical elements to make work that is meaningful.
 
-This course will conclude with an intensive collective installation project. The goal of this artistic work is to incorporate the interactive theory, sound art, and concepts of installation discussed during the first two weeks. The final week and a half will be devoted to designing, composing, and building the collective installation work. This will give students real-world experience of working in the field on an art installation or large-scale experience design.
+This course will conclude with an intensive collective installation project. The goal of this artistic work is to incorporate the interactive theory, sound art, and concepts of installation discussed during the first two weeks. The final week and a half will be devoted to designing, composing, and building the collective installation work. This will give students a real-world experience of working in the field on an art installation or large-scale experience design.
 
 
 
-## Professor/Instructor
+## Professor Information
 
 - [Professor Michael Musick](http://michaelmusick.com)
 - E-Mail: [michael@michaelmusick.com](mailto:michael@michaelmusick.com).
@@ -79,7 +78,7 @@ This course will conclude with an intensive collective installation project. The
 
 ## Pre-Requisites
 
-In order to take this course, you should have already completed, or have comprable knowledge to;
+In order to take this course, you should have already completed, or have comparable knowledge to;
 
 - Introduction to Music Technology
 - Creative Coding for Music
@@ -91,11 +90,11 @@ You will also be expected to utilize previous experience in composition, music, 
 
 ## Books & Supplies
 
-There are no required texts that you must purchase for this course. All readings will be available to you through web links, the CC library access to journal databases, or the class slack channel. 
+There are no required texts that you must purchase for this course. All readings will be available to you through web links, the CC library access to journal databases, or the class Slack channel. 
 
 ### Other Supplies
 
-You will need access to a computer capable of running modern sound processing languages, digital audio workstations (DAWs), and a development environment. This computer should also be capable of real-time audio processing through analog inputs and outputs (i.e. using an audio interface). Please leverage CC resources whenever necessary. 
+You will need access to a computer capable of running modern sound processing languages, digital audio workstations (DAWs), and a development environment. This computer should also be capable of real-time audio processing through analog inputs and outputs (i.e., using an audio interface). Please leverage CC resources whenever necessary. 
 
 Additionally, you will be expected to produce projects throughout the course. This may require minimal financial investments in materials from you. I will work to keep these to a minimum, and to utilize departmental/institutional resources when possible.
 
@@ -106,7 +105,7 @@ Additionally, you will be expected to produce projects throughout the course. Th
 
 ## Course Evaluation
 
-Students work and progress will be assessed through;
+Student work and progress will be assessed through;
 
 - Projects
 	- There will be three assigned installation projects throughout the block that relate to the current topics being discussed.
@@ -119,17 +118,18 @@ Students work and progress will be assessed through;
 
 We will have three projects throughout the course that are relevant to material from recent content. 
 
-Grades for all assignments will be based primarily on the student’s ability to:
+Project grades will be based primarily on the student’s ability to:
 
-1.  Demonstrate an understanding of the specific characteristics and integrative capabilities of the assigned topic through artistic output, written documentation, and technical achievement (code).
+1.  Demonstrate an understanding of the specific characteristics and integrative capabilities of the assigned topic through artistic output, written documentation, and technical achievement (i.e., code).
 2.  Articulate a clear and concise perspective. 
-3.  Present an organized artistic piece, as well as; technical report, file/program structure, and demo video; including proper and punctual delivery of the assignment files.
+3.  Present an organized artistic piece, as well as; technical report, file/program structure, and demo video.
 4.  Demonstrate creativity beyond the expected technical requirements.
+5.  Properly and punctually deliver all assignment files.
 
 
 #### Participation
 
-This class will be participatory, you are expected to participate in discussions and give feedback to other students. Additionally, all projects will be completed as collectives of students (groups).
+This class will be participatory, and you are expected to participate in discussions and give feedback to other students. Additionally, all projects will be completed as collectives of students (i.e., groups).
 
 
 
@@ -139,13 +139,12 @@ This class will be participatory, you are expected to participate in discussions
 
 Grades will be determined according to the following breakdown:
 
-- Sketches 30%
-- Show & Tell presentations: 5%
-- In-class discussions (readings & round-table feedback), critiques: 5%
-- Self-assessments and round-table presentations: 5%
+- Show & Tell presentations: 10%
+- In-class discussions (readings & round-table feedback), critiques: 15%
+- Sketches 15%
 - Project 1: "Create an Sound Experience in a Space with Paper" 10%
 - Project 2: "Cybernetic System as Interactive Sound Installation" 20% 
-- Project 3: "Class Collective builds an Interactive Sound Installation" 25%
+- Project 3: "Class Collective builds an Interactive Sound Installation" 30%
 
 Letters are assigned according to the following final course percentages:
 
@@ -518,24 +517,77 @@ We will then also travel to the [Museum of Contemporary Art Denver](https://mcad
         - group discussion on potential solutions
 - location visit
     - class visit to installation location
+- Advertisement and Awareness
+    - Create strategy to get participants to installation on Day 17
 - Work on Project 3
+
 
 
 ## Day 14
 
 - Show & Tell - Presentation 10; Design I/O & Golan Levin (playful)
 - Show & Tell - Presentation 11; The Explorartorium & Disney Research (Design for others)
-
-
+- Project 3 check-ins
+    - identification of potential problems
+        - group discussion on potential solutions
+- Work on Project 3
+    - Discuss install on Day 16
+    - Assign "watch" duties on Day 17
+- Project 3 Documentation
+    - Discuss documentation requirements for Project 3
+    - Assign duties
+    - Set deadlines
+    - Create documentation capture plan for Day 16
 
 
 
 ## Day 15
 
+Final class day to work on Project 3 with instructor.
 
 
 **TODO:**
 
-- 
+- Over the weekend, you are responsible for any final work that needs to be completed in order for the install to occur on Day 16 (Monday).
+- Begin work on documentation
 
 
+
+## Day 16 (Install Day in the Space)
+
+- Install the work in the space. 
+- Test art work for potential technical failures.
+    - Address and fix any potential technical failures.
+- Gather documentation audio/video using high-quality capture devices
+
+**Due:**
+
+- Project 3 Installation
+
+**TODO:**
+
+- Work on Documentation
+
+
+
+## Day 17 (Public Presentation)
+
+Open installation for entire day (10am - 9pm)
+
+**TODO:**
+
+- Finalize documentation
+
+
+
+## Day 18 (Crit & Strike)
+
+- Class critique in space
+- Strike installation
+- Submission of documentation
+- Watch documentation video
+- Final comments
+
+**Due:**
+
+- Project 3 Documentation

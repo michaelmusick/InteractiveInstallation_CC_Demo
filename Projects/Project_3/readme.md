@@ -40,4 +40,4 @@ Strike will occur in the morning of Day 18, following crit.
 
 Like previous projects, the group will be responsible for submitting a single set of documentation. This is to be completed collaboratively.
 
-*Unlike* previous projects, documentation is due at the time of critique. This means that documentation footage, editing, and writing will need to also occur simultaneously as install and presentation. 
+*Unlike* previous projects, documentation is due at the time of critique. This means that documentation footage, editing, and writing will need to occur simultaneously with install and presentation. 

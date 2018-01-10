@@ -1,22 +1,20 @@
 
 
-# Interactive Music 1; Installation<br/>(--course #--)<br/>Syllabus
+# Interactive Music 1; Installation<br/>(course #)<br/>Syllabus
 
-Date modified: 2017-09-05
+Date modified: 01-08-2018
 
 **Table of Contents**
 
 - [Course Overview](#course-overview)
+    - [Description](#description)
 	- [Professor/Instructor](#professorinstructor)
 	- [Course Websites](#course-websites)
-	- [Course Requirements](#course-requirements)
-	- [Pre-Requisite Knowledge, Experience, & Technology](#pre-requisite-knowledge-experience--technology)
+	- [Pre-Requisites](#pre-requisites)
 	- [Books & Supplies](#books--supplies)
 - [Policies](#policies)
 	- [Course Evaluation](#course-evaluation)
 	- [Grades](#grades)
-		- [Final Grades](#final-grades)
-		- [Assignment Grades](#assignment-grades)
 	- [Attendance](#attendance)
 	- [Plagiarism & Cheating Policy](#plagiarism--cheating-policy)
 	- [Students with Disabilities](#students-with-disabilities)
@@ -24,36 +22,48 @@ Date modified: 2017-09-05
 - [Schedule](#schedule)
 
 
-# COURSE OVERVIEW
+# Course Overview
 
-### General
+## Description
 
-The primary goal for this course is to explore the theory and technique of creating interactive experiences. This may include;
+_Interactive Music 1; Installation_ explores the theory and technique of interactive music and art.
 
-- Interactive art systems
-- Interactive website design
-- User interaction design
-- Installation art
-- Game design
+What is interactivity? What does it mean to create meaningful interactive experiences? In this hands-on course, students will learn how to create interactive installations and environments, with a primary focus on music and sound. We will talk about what it means to create an interactive experience for general participants. Scale, space, and time will be explored with reference to the body, while creating cybernetic systems for real-time and time-based interaction. Software, electronics, and physical computing will be covered in a workshop style format, with the goal of students creating physical projects. A variety of input and output mechanisms, networking, and best practices will be covered in workshops. Class discussions will cover readings about interactive music/art, design, space, and` installation. Students are free to explore their own ideas/concepts through the lens of this course.
 
-This course will include a mix of reading, discussion, interactive development, projects, and tests. As this is an intensive course in a developing area, students are expected to be in class and to participate.
+This course will include a mix of reading, discussion, interactive development, projects, and tests.
 
-### Specific for Fall 2017
+As this is an intensive course in a developing area, students are expected to be in class and to participate.
 
-What is interactivity? What does it mean to create meaningful interactive experiences? In this hands-on course, students will learn how to create interactive installations and environments. Scale and space will be explored with reference to the body, while creating cybernetic systems for real-time and time-based interaction. Software (p5.js, openCV, Max, Isadora, & End User Products), electronics and physical computing (Arduino) will be covered in a workshop style format, with the goal of students creating physical projects. A variety of input and output mechanisms (edge detection, tracking, capacitance sensors, presence sensors, custom switches, etc), networking and best practices will be covered in workshops. Class discussions will cover readings about interactive art and design, space, installation. Students are free to explore their own ideas/concepts through the lens of this course.
 
 ### Objectives
 
-Students will gain a vocabulary for interactivity and learn a variety of tools and techniques to create interactive installations, including tracking, edge detection, sensors, basic electronics and physical computing. Students will gain knowledge of different methods to create interactive installations including: installations for 1 person, many people, time dependent or input dependent. Students will understand the difference between reactive, interactive and dynamically changing systems.
+Through this course, students are expected to;
 
-Students are expected to bring ideas to explore with these techniques. The goals of the projects are not simply about the successful function of the technical process. The goal is to integrate these technical elements to make work that is about something. This could be a problem, phenomena, story, natural element, or other form of expression. This class is about exploring those on a physical scale, such as the body. Projects will create full scale and dynamic installation using both digital and physical means. These projects will be portfolio-level quality works.
+- Gain a vocabulary and understanding about interactive theory.
+- Become versed in some of the tools and techniques available for the creation of interactive installations, including;
+    - real-time digital signal processing
+    - data capture, may include;
+        - symbolic Instruments (MIDI)
+        - audio signals via microphones
+        - physical computing (buttons, sensors, or basic electronics)
+        - computer vision (edge detection, face recognition)
+- Understand experience differences for various types of installations;
+    - installations for 1 person vs. many people
+    - time dependent or input dependent installations
+- Be capable of describing the difference between reactive, interactive, and dynamically changing systems.
+- Walk away with at least two portfolio quality works completed and presented.
+
+Students are expected to bring ideas to explore with these techniques. The goals of the projects are not simply about the successful application of the technical processes. Instead, the goal is to integrate these technical elements to make work that is about something.
+
+This course will conclude with an intensive collective installation project. The goal of this artistic work is to incorporate the interactive theory, sound art, and concepts of installation discussed during the first two weeks. The final week and a half will be devoted to designing, composing, and building the collective installation work. This will give students real-world experience of working in the field on an art installation or large-scale experience design.
+
 
 
 ## Professor/Instructor
 
-- [Professor Michael Musick](https://michaelmusick.github.io/teaching)
-- E-Mail: [michael.musick@umontana.edu](mailto:michael.musick@umontana.edu).
-- Office: McGill Hall, 232.
+- [Professor Michael Musick](http://michaelmusick.com)
+- E-Mail: [michael@michaelmusick.com](mailto:michael@michaelmusick.com).
+- Office: ---
 
 
 
@@ -62,44 +72,34 @@ Students are expected to bring ideas to explore with these techniques. The goals
 - [Course GitHub Repo](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo)
 - [Syllabus](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/blob/master/Syllabus.md)
     - This is were all course materials will be located.
-- [Slack Channel](./)
+- [Slack Channel](#)
     - Slack is a communication tool used in industry, startups, and art teams. We will use this as our primary tool of communication for the class. You are **REQUIRED** to participate in Slack and check it regularly. (I would encourage you to download the Slack app for your computer and mobile devices.)
     
 
 
+## Pre-Requisites
 
-## Course Requirements
+In order to take this course, you should have already completed, or have comprable knowledge to;
 
-**Time**
+- Introduction to Music Technology
+- Creative Coding for Music
+- [MU251 - Tonal Harmony](https://www.coloradocollege.edu/academics/curriculum/detail.html?courseid=MU251)
 
-You should plan to spend 3-12 hours of work a week on homework and coding outside of class time. **This is a very intense course that will require a significant time commitment on your part.**
-
-This means you will need excellent time management skills. Schedule time for this course in your week, or you will not be capable of being successful.
-
-**Creativity**
-
-You are taking this course because it offers the opportunity to learn coding skills through creative means. Please take the time to be creative in your weekly code assignments. Pushing the boundary creatively will make this course more meaningful.
-
-**Cleanliness**
-
-Coding is hard. But, messy code, documents, and files will make it more difficult. Try to be as clean and tidy in your organization for this class. When writing code, try to keep it organized, and provide many comments. This will make it easier for the grader, the instructor, and you.
-
-**Collaboration**
-
-This course will heavily utilize collaboration. You will need to work with your fellow classmates in order to be successful.
-
-
-## Pre-Requisite Knowledge, Experience, & Technology
-
-There are no specific pre-req's for this course. Instead, you are expected to utilize your previous expertise in coding, content creation, story telling, art, sculpture, sound, music, dance, etc. towards the projects presented in the course.
-
-With that being said, it is suggested that you have taken Creative Coding 1 & 2 (MART 120/220), as well as Web Development and Web Technologies (MART 341/441).
+You will also be expected to utilize previous experience in composition, music, sound, coding, content creation, story telling, art, sculpture, dance, etc. towards the projects for this course.
 
 
 
 ## Books & Supplies
 
-There are no required texts or supplies for this course. However, you will be expected to be capable of producing projects throughout the course, and this may require minimal financial investments in materials from you. I will work to keep these to a minimum, and to utilize departmental/institutional resources when possible.
+There are no required texts that you must purchase for this course. All readings will be available to you through web links, the CC library access to journal databases, or the class slack channel. 
+
+### Other Supplies
+
+You will need access to a computer capable of running modern sound processing languages, digital audio workstations (DAWs), and a development environment. This computer should also be capable of real-time audio processing through analog inputs and outputs (i.e. using an audio interface). Please leverage CC resources whenever necessary. 
+
+Additionally, you will be expected to produce projects throughout the course. This may require minimal financial investments in materials from you. I will work to keep these to a minimum, and to utilize departmental/institutional resources when possible.
+
+
 
 
 # Policies
@@ -110,37 +110,26 @@ Students work and progress will be assessed through;
 
 - Projects
 	- There will be three assigned installation projects throughout the block that relate to the current topics being discussed.
-- Writing
-	- You will be expected to produce individual reports/paper for each project completed this block.
 - Project Documentation
-	- Each project will require project documentation, including a demo video, portfolio page, and code.
+	- Each project will require project documentation, including; a demo video, written technical report, and code.
 - Class participation via group problem solving, support, and forum discussions.
 
 
 #### Projects
 
-We will have three projects throughout the course that are relevant to material from recent content. These are required and you will need to talk about them in your technical reports.
+We will have three projects throughout the course that are relevant to material from recent content. 
 
 Grades for all assignments will be based primarily on the student’s ability to:
 
-1.  Demonstrate an understanding of the specific characteristics and integrative capabilities of the assigned topic in your own words and code.
-2.  Articulate a clear and concise perspective. Cutting and pasting or copying word for word off the Internet will result in loss of points.
-3.  Present an organized file/program, as well as technical report, portfolio page, and demo video; including proper and punctual delivery of the assignment files.
+1.  Demonstrate an understanding of the specific characteristics and integrative capabilities of the assigned topic through artistic output, written documentation, and technical achievement (code).
+2.  Articulate a clear and concise perspective. 
+3.  Present an organized artistic piece, as well as; technical report, file/program structure, and demo video; including proper and punctual delivery of the assignment files.
 4.  Demonstrate creativity beyond the expected technical requirements.
-
-
-IMPORTANT: Assignments handed in after the due date and time will have points deducted for lateness. This will be in addition to any points deducted for content. Those that are uploaded late but within one day of the due date will lose 5% for lateness.  For those uploaded after that, the number of deducted points will be at the discretion of the professor.
 
 
 #### Participation
 
-This class will be participatory, you are expected to participate in discussions and give feedback to other students through on-line participation with their projects.
-
-#### Final Project
-
-This course will culminate with a final project. You are expected to push your abilities to produce something that utilizes what you have learned in the class that is useful in some manner to yourself or the world.
-
-**Required:** Please note, the final project is required. Failure to complete a final project will result in a letter grade of F for the course. This is regardless of the students current grade standing in the course. There are no exceptions to this policy.
+This class will be participatory, you are expected to participate in discussions and give feedback to other students. Additionally, all projects will be completed as collectives of students (groups).
 
 
 
@@ -154,9 +143,9 @@ Grades will be determined according to the following breakdown:
 - Show & Tell presentations: 5%
 - In-class discussions (readings & round-table feedback), critiques: 5%
 - Self-assessments and round-table presentations: 5%
-- Project 1: Change a Space: 10%
-- Project 2: Midterm: Interactive Installation 20% (5% Prototype, 15% Midterm)
-- Project 3: Final Project: 25% (10% Prototype, 15% Final)
+- Project 1: "Create an Sound Experience in a Space with Paper" 10%
+- Project 2: "Cybernetic System as Interactive Sound Installation" 20% 
+- Project 3: "Class Collective builds an Interactive Sound Installation" 25%
 
 Letters are assigned according to the following final course percentages:
 
@@ -191,18 +180,24 @@ Please read examples of each assessment point below to get an idea of my expecta
 
 
 - **Principles:**
-	- Superior - A - Your work shows evidence and understanding of programming concepts discussed in readings, lectures, and exercises, as you bend them to your will.
+	- Superior - A - Your work shows evidence and understanding of concepts discussed in readings, lectures, and exercises, as you bend them to your will.
 	- Satisfactory - C - Your work shows evidence of concepts and is still developing an understanding of course material. You understand some aspects, but aren’t utilizing them fully. Usage is cursory. Keep pushing your work and review the material to revisit how you can integrate it to your work.
 	- Unexceptable - D/F - Your work shows some evidence of concepts discussed, but lacks key understanding, confidence, robustness and authority. Aspects are lacking. Reviewing course material is required. Ask questions in class. Manage your time better.
-- **Creativity, Thoughtfulness:**
-	- Superior - A - Your work demonstrates your personality and a great depth of engagement with the material. It’s extremely evident that you are thinking, exploring, playing and taking risks. You are creating wonderful experiences.
+- **Creativity, Artistry, Thoughtfulness:**
+	- Superior - A - Your work demonstrates your personality and a great depth of engagement with the material. It’s extremely evident that you are thinking, exploring, playing and taking risks. You are creating wonderful experiences, music, sound art, and installations.
 	- Satisfactory - C - You are executing your ideas, but more time is needed to consider more deeply about what is conceptually and physically happening. They are barely getting off the ground. Or have large bits that are broken. Do more research and exploring. Play.
-	- Unexceptable - D/F - Your work is so straightforward that it’s flat. It’s barely coded (or badly broken). It’s copied from elsewhere and not expanded upon. Question and Iterate your work to push your it further. Read. Play. Get off the lame track and get inspired.
+	- Unexceptable - D/F - Your work is so straightforward that it’s flat. It’s barely coded (or badly broken). It’s copied from elsewhere and not expanded upon. Question and Iterate your work to push it further. Read. Play. Get off the lame track and get inspired.
 - **Craft:**
-	- Superior - A - Your work shows delicate care and consideration to presentation and professionalism. You code is neat, clean, commented and structured. Your friends consider you “Type A.” Your style is evident.
-	- Satisfactory - C - Your work shows the birth of your ideas, but further time and iteration can really push your work to excel. Your code is there, but messy. It can be simplified and made cleaner. What you put into it, is what you get out of it. Practice makes perfect!
+	- Superior - A - Your work shows delicate care and consideration to presentation, experience, sound, and professionalism. You code, files, and builds are neat, clean, commented and structured. Your friends consider you “Type A.” Your style is evident.
+	- Satisfactory - C - Your work shows the birth of your ideas, but further time and iteration can really push your work to excel. Your technical deliverables are there, but messy. It can be simplified and made cleaner. What you put into it, is what you get out of it. Practice makes perfect!
 	- Unexceptable - D/F - Your work is rushed and looks like it was done on your train-ride in or the night before. Make your work something you are proud of. You are here to build your portfolio after all, aren’t you?
 
+
+#### Late Work
+
+IMPORTANT: Since projects are experienced as a group in class or through a public presentation, late projects are not permissable and will not be accepted. 
+
+Documentation assignments handed in after the due date and time will have points deducted for lateness. This will be in addition to any points deducted for content. Those that are uploaded late but within one day of the due date will lose 5% for lateness.  For those uploaded after that, the number of deducted points will be at the discretion of the professor.
 
 ## Attendance
 
@@ -211,6 +206,7 @@ Please read examples of each assessment point below to get an idea of my expecta
 - Contact me in advance if you will not be in class. (email is preferred)
 - Unexcused absences will affect your grade
 - One absence is allowed; after that, your final overall grade for the course will drop by 2.5 pts out of 100 for each additional absence.
+- You are expected to work with colleagues to catch-up on what you missed.
 
 
 ## Plagiarism & Cheating Policy
@@ -223,13 +219,21 @@ Plagiarism is the presentation of the work of another without acknowledgement.  
 
 Students who cheat or plagiarize will receive academic sanctions, which may include an “F” grade on the assignment, examination, and/or in the course. Students will also be reported to the Dean of Students for possible further disciplinary action.
 
-#### Using Code Found Elsewhere
+#### Using Code or Media Found Elsewhere
 
-It's super easy to find code online. If you use code from elsewhere (which you will at times), I expect you to cite the work and author, as well as to comment each line, as to what each line does programmatically. _Do not_ summarize several lines of code from a high level (ie, TV Guide). I expect you to comment each line on a granular level. In addition, in these cases, I am also looking for significant modification of the code, for you to enact your own ideas and to experiment heavily. Significant modification means beyond variable name and value changes. It's bending these concepts to your idea, especially graphically. It's not a copy and paste job.
+It's super easy to find code and media (i.e. videos, sounds, images, etc.) online. If you use code or media from elsewhere (which you will at times), I expect you to cite the work and author. 
 
-Also, never more than 40% of your code may be supplied from elsewhere. Period.
+If you use found code, you are expected to comment each line, as to what each line does programmatically. _Do not_ summarize several lines of code from a high level (ie, TV Guide). I expect you to comment each line on a granular level. In addition, in these cases, I am also looking for significant modification of the code, for you to enact your own ideas and to experiment heavily. Significant modification means beyond variable name and value changes. It's bending these concepts to your idea, especially graphically. It's not a copy and paste job. Also, never more than 40% of your code may be supplied from elsewhere. Period. If you use code from online, whether for inspiration, modification or reference, I expect to see a link in your comments from where you got the code and who wrote it. Otherwise it will be considered as plagiarism, and you will fail the assignment. The code must have a reference, along with URL and be commented out LINE BY LINE.
 
-If you use code from online, whether for inspiration, modification or reference, I expect to see a link in your comments from where you got the code and who wrote it. Otherwise it will be considered as plagiarism, and you will fail the assignment. The code must have a reference, along with URL and be commented out LINE BY LINE.
+If you use found media, *YOU* are responsible to ensure it is used according to fair-use guidelines. The pieces you make in this course are intended to be portfolio-quality works. Therefore, you should not utilize found media with restrictive use guidelines or licenses. You can read more about various licenses at;
+
+- [opensource.guide](https://opensource.guide/legal/)
+- [choosealicense](https://choosealicense.com)
+- [GNU Licenses](https://www.gnu.org/licenses/licenses.en.html)
+- [Creative Commons Licenses](https://creativecommons.org/share-your-work/licensing-types-examples/)
+- [opensource.org](https://opensource.org/licenses)
+
+For found media, you are also expected to cite the media in your documentation for the project.
 
 
 
@@ -262,15 +266,24 @@ I reserve the right to change the intended content of this course throughout the
 - Course Overview
 - Syllabus
 - Required Texts and Supplies
+- Assign ["Show & Tell"](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/ShowAndTell/)
 - Discussion of Technologies and Tools
 	- GitHub Repository
 	- Setup Slack
 	- Possible Software
 	- Physical Computing
 	- Microphones, Speakers, Audio Interfaces, and Controllers
-- Assign ["Show & Tell"](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/ShowAndTell/)
+- Class discussion;
+    1. What does interactive mean?
+    2. What is Installation Art?
+    3. What is Sound Art?
 - [Project 1 Launch](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_1/)
 - Discussion of Day 2
+
+**TODO:**
+
+- Reading for Day 2.
+- Project 1 sketches with partner for Day 2. 
 
 
 
@@ -282,13 +295,16 @@ I reserve the right to change the intended content of this course throughout the
 			- [http://www.embodiedimmersion.com/wp-content/uploads/2013/01/Art+of+interaction.pdf](http://www.embodiedimmersion.com/wp-content/uploads/2013/01/Art+of+interaction.pdf)
 		- Edmonds, Ernest. 2010. “The Art of Interaction.” Digital Creativity 21 (4): 257–64. doi:10.1080/14626268.2010.556347.
 			- [http://userpages.umbc.edu/~skane/classes/is760/fall2011/papers/Edmonds2010.pdf](http://userpages.umbc.edu/~skane/classes/is760/fall2011/papers/Edmonds2010.pdf)
-- Discussions & presentations of Project 1 sketches.
+- Discussion & presentation of Project 1 sketches.
 - Show & Tell - Presentation 1; Jeffery Shaw & Myron Kruger (pioneers)
 
 **Due:**
 
 - Project 1 sketches.
 
+**TODO:**
+
+- Reading for Day 3.
 
 
 ## Day 3
@@ -298,9 +314,10 @@ I reserve the right to change the intended content of this course throughout the
         - "Introduction: Installation Art and Experience" from, 
             - Bishop, Claire. _Installation Art_. London, UK: Tate, 2010.
         - Available from the course slack channel.
+- Lecture on General Topics and Specific Examples of Installation Art
 - Documenting Installation Art, Interactive Art, and Sound Art.
-- project 1 check-ins and work with remaining class time.
 - Show & Tell - Presentation 2; United Visual Artist & SOFTLab
+- Project 1 individual check-ins and work with remaining class time.
 
 
 
@@ -311,6 +328,10 @@ I reserve the right to change the intended content of this course throughout the
 **Due:**
 
 - Project 1 Installation Presentation
+
+**TODO:**
+
+- Reading for Day 5.
 
 
 
@@ -323,186 +344,198 @@ I reserve the right to change the intended content of this course throughout the
             - Available from the class Slack channel
         - Ella, Delany. “The Power of Sound as an Art Form.” The New York Times, 3 Oct. 2013. 
             - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
+- Lecture on General Topics and Specific Examples of Sound Art.
 - Show & Tell - Presentation 3; Sabrina Raaf & David Rokeby (interactive installations)
+- Workshop of various output transducers 
+    - full-range studio monitors
+    - PA speakers
+    - small speakers (consumer, cost-effective, band-limited, compositional opportunities)
+    - tactile transducers
+    - speaker sculptures
+- [Project 2 Launch](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/)
+    - Assign Groups
+
+
+**TODO:**
+
+- Project 1 Documentation for Day 6.
+- Project 2 Sketches for Day 6.
+- Read for Day 6.
 
 
 
 
-- Class discussion of Roy Ascott: “The Cybernetic Stance: My Process and Purpose.”
-    - [Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.” Leonardo, vol. 40, no. 2, 2007, pp. 189–197. JSTOR, JSTOR, www.jstor.org/stable/20206383.](https://www.jstor.org/stable/20206383)
-    - Note: This should be freely downloadable while you are signed in to the library or on campus.
-
-
-
-
-
-## Day 5
-
-**In-Class (Monday):**
+## Day 6
 
 - Watch Project 1 Demo Videos
     - Discuss success, quality, & future approaches.
-- ["Project 2"](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/) Launch
+    - What types of things "worked"?
+- Class discussion of _Cybernetics_ and _Systems Art_
+    - Please read:
+        - [Ascott, Roy. “The Cybernetic Stance: My Process and Purpose.” Leonardo, vol. 40, no. 2, 2007, pp. 189–197. JSTOR, www.jstor.org/stable/20206383.](https://www.jstor.org/stable/20206383)
+            - Note: This should be freely downloadable while you are signed in to the library or on campus.
+        - Burnham, Jack. “Systems Esthetics.” Artforum 7.1 (1968): 30–35.
+            - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
+        - Burnham, Jack. “Real Time Systems.” Artforum 8.1 (1969): 49–55.
+            - [Available on Monoskop](https://monoskop.org/images/b/bb/Burnham_Jack_1969_Real_Time_Systems.pdf)
 - Show & Tell - Presentation 4; Rafael Lozano-Hemmer & Nils Voelker (interactive installations)
-
+- Sketch Presentations and Discussion of [Project 2](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/)
+- Discussion of Day 7.
+    - Arrange rides.
 
 **Due:**
 
 - Project 1, Documentation Submissions.
     - E-mail me per ["Submission Info"](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Documentation_and_Response#submission)
 
-**In-Class (Wednesday):**
+**TODO:**
 
-- Class discussion of "Systems Ethetics"
-    - Burnham, Jack. “Systems Esthetics.” Artforum 7.1 (1968): 30–35.
-    - [Available on Monoskop](https://monoskop.org/images/0/03/Burnham_Jack_1968_Systems_Esthetics_Artforum.pdf)
-- Review Project 2 Groups.
-- Project 2, Instructions for next Monday & Wednesday.
-- More with Processing
+- Work on Project 2. 
 
 
-## Day 6
 
-**In-Class (Monday):**
+## Day 7 (Travel Day, Denver Art)
 
-- Presentation 5
-    - Camille Utterback & Tangible Interaction (interactive installations)
-    - Laura
-- Class discussion of "Real Time Systems"
-    - Burnham, Jack. “Real Time Systems.” Artforum 8.1 (1969): 49–55.
-    - [Available on Monoskop](https://monoskop.org/images/b/bb/Burnham_Jack_1969_Real_Time_Systems.pdf)
+Experiencing interactive art and sound art.
 
+For this class, we will meet at two locations, where we will;
 
-**In-Class (Wednesday):**
+- Discuss how to experience interactive art & sound art pieces
+- Experience a number of a pieces
+- Discuss these pieces
+- Discuss the presentation of these pieces
+- Discuss how these works relate to the pieces you will install and present on Day 9. 
 
-- Sketch Presentations and Discussion of [Project 2](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_2/)
+Please note: This will be an extended class day.
 
+You are to first meet at (*depends on current showings, but most likely one of the following*) 
 
-## Day 7
+- the [David B. Smith Gallery](http://www.davidbsmithgallery.com)
+    - 1543 A Wazee Street, Denver, CO 80202 
+- [Understudy](http://understudydenver.com)
+    - 890 C 14th St., Denver, CO 80202
 
-**In-Class (Monday):**
+We will then also travel to the [Museum of Contemporary Art Denver](https://mcadenver.org)
 
-- Presentation 6
-    - Electroland & YesYesNo (interactive installations)
-    - Chris
-- Class discussion of "The Work of Art in the Age of Mechanical Reproduction"
-    - Benjamin, Walter. “The Work of Art in the Age of Mechanical Reproduction.” (1936)
-    - [Available from](./resources/articles/Benjamin_1936_WorkOfArt.pdf)
-- Computer Vision / openCV & Processing
-    - Start w/ chapter 16 from "Learning Processing" by Shiffman
-    - [Video & openCV - Processing Tutorial Playlist - Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6bw0bVn4M63p8TMJf3OhGy8)
+**TODO:**
 
-**In-Class (Wednesday):**
-
-- Class discussion of "Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers"
-    - Levin, Golan. “Computer Vision for Artists and Designers: Pedagogic Tools and Techniques for Novice Programmers.” AI and Society 20.4 (2006): 462–482.
-    - Available from;
-        - [_FLONG._ as a web page](http://www.flong.com/texts/essays/essay_cvad/)
-        - or [as a PDF](./resources/articles/Levin_2006_ComputerVision.pdf)
-- Cont'd exploration of Computer Vision w/ openCV
+- Work on Project 2
 
 
 ## Day 8
 
+- Project 2 check-ins
+- Discussion of install and public presentation on Day 9.
+- Lecture presenting and discussing Prof. Musick's interactive sound installations
+    - *The Sonic Spaces Project*
+    - *Seo[u]l Sound[e]scapes*
+    - *I Hear NY3D*
+    - ICMC 2018, Computer Music Installations in S. Korea
+- Show & Tell - Presentation 5; Camille Utterback & Tangible Interaction (interactive installations)
+  
+**TODO:**
 
-**In-Class (Monday):**
-
-- Presentation 7
-
-- Class
-
-
-
-**In-Class (Wednesday):**
-
-_Notes: Prof. Musick in South Korea_
-
-- Class
+- Finish Project 2 and prepare or start install for presentations on Day 9.
 
 
-## Day 9
+## Day 9 (Crit Day & Public Showing at Night)
 
-_Notes: Prof. Musick in South Korea_
+*Class will not be held in the morning, instead we will meet in the afternoon/evening from 4-9pm.*
 
-**In-Class (Monday):**
+**Project 2 Installation Presentations**
 
-- Class
-    -
+*These will occur in the presentation space. TBD.*
 
+- There will be a public showing of Project 2 installations from 4pm-7:30pm.
+- Please have your work fully installed and ready by 4pm.
+- We will have a formal critique with the entire class from 7:30pm-8:30pm. 
+- Strike will occur from 8:30pm-9pm. Please remove all materials. 
 
-**In-Class (Wednesday):**
+**Due:**
 
-- Class
+- Project 2 Installations
 
 
 ## Day 10
 
-NOTE: Project 2 presentations during this Day.
+- Final remarks about Project 2.
+- [Project 3 Launch](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_3/)
+- Class brainstorming about Project 3.
+- Show & Tell - Presentation 6; Electroland & YesYesNo (interactive installations)
 
-**In-Class (Monday):**
+**TODO:**
 
-- Presentation 7
-    - Deep Local & Niklas Roy (esp My Little Piece of Privacy) (systems, games, fun)
-    - Garrett
-- Class
-    -
+- Individual sketches for Project 3, based on class discussion.
 
-
-**In-Class (Wednesday):**
-
-- Class
 
 
 ## Day 11
 
-**In-Class (Monday):**
+- Watch Project 2 Demo Videos
+    - Discussion of documentation
+- Show & Tell - Presentation 7; Tristan Perich & Janet Cardiff (sound art & installation)
+- Sketch presentations and discussions of [Project 3](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_3/)
+- Coalesce Idea for Project 3 
+- Project 3 Work
+    - Map out artistic and technical sub-problems
+    - Create initial schedule with internal deadlines
+    - Assign responsibilities and tasks
+    - Begin work on Project 3
+- Discuss problem identification
 
-- Quick Discussion of Dr. Musick in S. Korea
-- Status Discussion of Project 2
-    - Issues, problems, & help?
-- Logistics for Tuesday Night Presentation
-- Introductory Discussion to Project 3
+**Due:**
 
+- Project 2 documentation
 
-**In-Class (Wednesday):**
+**TODO:**
 
-- Formal Critique of Project 2
+- Work on Project 3
+- Begin prototypes of individual components
+- Determine necessary equipment, parts, and materials
+
 
 
 ## Day 12
 
-**In-Class (Monday):**
+- Show & Tell - Presentation 8; Luke DuBois & Niklas Roy (systems, games, fun)
+- Project 3 check-in
+    - identification of potential problems
+        - group discussion on potential solutions
+    - presentation of equipment, parts, and material needs
+        - determine what can be outsourced from class and CC resources
+        - determine what needs to be procured externally
+    - deadline updates
+- Work on Project 3
 
-
-- Presentation 9
-    - Design I/O & Golan Levin (playful)
-    - Anna
-- Begin Formal Planning of Project 3
-
-
-**In-Class (Wednesday):**
-
-- Please read; [Morse, Margaret. "The Poetics of Interactivity". Women, Art, and Technology. The MIT Press. 2003.](http://www.immersence.com/publications/2003/2003-Mmorse-full.html)
 
 
 ## Day 13
 
-**In-Class (Monday):**
-
-- Presentation 10
-    - The Explorartorium & Disney Research (Design for others)
-    - Marc
-- Prof. Musick, documentation of South Korea trip, and "Seoul Sound[e]scapes" Installation.
-
-**In-Class (Wednesday):**
-
-
+- Show & Tell - Presentation 9; Daily tous les Jours (Mouna Andraos) & Random International (playful)
+- Project 3 check-ins
+    - update from PM/Musick on external material procurement
+    - identification of potential problems
+        - group discussion on potential solutions
+- location visit
+    - class visit to installation location
+- Work on Project 3
 
 
+## Day 14
 
-# Cut Out 
+- Show & Tell - Presentation 10; Design I/O & Golan Levin (playful)
+- Show & Tell - Presentation 11; The Explorartorium & Disney Research (Design for others)
 
-Do at Home:
 
-- [Watch "Welcome to Processing" w/ Daniel Shiffman](https://vimeo.com/140600280)
-- Download [Processing](https://processing.org)
+
+
+
+## Day 15
+
+
+
+**TODO:**
+
+- 
+
+

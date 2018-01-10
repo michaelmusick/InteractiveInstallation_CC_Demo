@@ -12,12 +12,12 @@ Date modified: 01-08-2018
 	- [Professor Information](#professor-information)
 	- [Course Websites](#course-websites)
 	- [Pre-Requisites](#pre-requisites)
-	- [Books & Supplies](#books--supplies)
+	- [Books & Supplies](#books-and-supplies)
 - [Policies](#policies)
 	- [Course Evaluation](#course-evaluation)
 	- [Grades](#grades)
 	- [Attendance](#attendance)
-	- [Plagiarism & Cheating Policy](#plagiarism--cheating-policy)
+	- [Plagiarism & Cheating Policy](#plagiarism-and-cheating-policy)
 	- [Students with Disabilities](#students-with-disabilities)
 	- [Changes to the Course](#changes-to-the-course)
 - [Schedule](#schedule)
@@ -89,7 +89,7 @@ You will also be expected to utilize previous experience in composition, music, 
 
 
 
-## Books & Supplies
+## Books and Supplies
 
 There are no required texts that you must purchase for this course. All readings will be available to you through web links, the CC library access to journal databases, or the class Slack channel. 
 
@@ -179,7 +179,7 @@ Documentation assignments handed in after the due date and time will have points
 - You are expected to work with colleagues to catch-up on what you missed.
 
 
-## Plagiarism & Cheating Policy
+## Plagiarism and Cheating Policy
 
 Students are expected to adhere to academic conduct policies of the University, as explained in the [Conduct Code](https://www.coloradocollege.edu/dotAsset/3fbd7ebd-e1ec-4aa2-9a01-a4b4bcf64b88.pdf). All students should act with personal integrity, respect other students’ dignity, rights, and property, and help create and maintain an environment in which all can succeed.
 

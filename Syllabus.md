@@ -173,23 +173,23 @@ For each project your grade will be assessed upon the following:
 Below gives you a sense of the spectrum, giving examples for high, middle and low grades.
 
 Please note:
-A letter grade of "C" is an average grade. Average is not bad. It means average. Most of us are average, in some way. An average level of work is being done. It does not mean perfection. It means that the work still has room to develop at it's current state. It also means that the work has noticeable achievements and evidence of some acquisition of knowledge. I look at this on an individual basis as well as across the whole class.
+A letter grade of "C" is an average grade. An average level of work means that the work still has room to develop at it's current state. It also means that the work has noticeable achievements and evidence of some acquisition of knowledge. I look at this on an individual basis as well as across the whole class.
 
 Please read examples of each assessment point below to get an idea of my expectations. Note that a "B" is between Satisfactory and Superior.
 
 
 - **Principles:**
 	- Superior - A - Your work shows evidence and understanding of concepts discussed in readings, lectures, and exercises, as you bend them to your will.
-	- Satisfactory - C - Your work shows evidence of concepts and is still developing an understanding of course material. You understand some aspects, but aren’t utilizing them fully. Usage is cursory. Keep pushing your work and review the material to revisit how you can integrate it to your work.
-	- Unexceptable - D/F - Your work shows some evidence of concepts discussed, but lacks key understanding, confidence, robustness and authority. Aspects are lacking. Reviewing course material is required. Ask questions in class. Manage your time better.
+	- Satisfactory - C - Your work shows evidence of concepts and is still developing an understanding of course material. You understand some aspects, but are not utilizing them fully. Usage is cursory. Keep pushing your work and review the material to revisit how you can integrate it to your work.
+	- Unacceptable - D/F - Your work shows some evidence of concepts discussed, but lacks key understanding, confidence, robustness and authority. Aspects are lacking. Reviewing course material is required. Ask questions in class. Manage your time better.
 - **Creativity, Artistry, Thoughtfulness:**
 	- Superior - A - Your work demonstrates your personality and a great depth of engagement with the material. It’s extremely evident that you are thinking, exploring, playing and taking risks. You are creating wonderful experiences, music, sound art, and installations.
 	- Satisfactory - C - You are executing your ideas, but more time is needed to consider more deeply about what is conceptually and physically happening. They are barely getting off the ground. Or have large bits that are broken. Do more research and exploring. Play.
-	- Unexceptable - D/F - Your work is so straightforward that it’s flat. It’s barely coded (or badly broken). It’s copied from elsewhere and not expanded upon. Question and Iterate your work to push it further. Read. Play. Get off the lame track and get inspired.
+	- Unacceptable - D/F - Your work is so straightforward that it’s flat. It’s barely coded (or badly broken). It is copied from elsewhere and not expanded upon. Question and iterate your work to push it further. Read. Play. Get off the lame track and get inspired.
 - **Craft:**
 	- Superior - A - Your work shows delicate care and consideration to presentation, experience, sound, and professionalism. You code, files, and builds are neat, clean, commented and structured. Your friends consider you “Type A.” Your style is evident.
 	- Satisfactory - C - Your work shows the birth of your ideas, but further time and iteration can really push your work to excel. Your technical deliverables are there, but messy. It can be simplified and made cleaner. What you put into it, is what you get out of it. Practice makes perfect!
-	- Unexceptable - D/F - Your work is rushed and looks like it was done on your train-ride in or the night before. Make your work something you are proud of. You are here to build your portfolio after all, aren’t you?
+	- Unacceptable - D/F - Your work is rushed and looks like it was done on your train-ride in or the night before. Make your work something you are proud of. You are here to build your portfolio after all, aren’t you?
 
 
 #### Late Work
@@ -203,7 +203,7 @@ Documentation assignments handed in after the due date and time will have points
 - Attendance will be taken at the beginning of every class
 - Critique days are mandatory. No exceptions. No tardiness.
 - Contact me in advance if you will not be in class. (email is preferred)
-- Unexcused absences will affect your grade
+- Unexcused absences will affect your grade.
 - One absence is allowed; after that, your final overall grade for the course will drop by 2.5 pts out of 100 for each additional absence.
 - You are expected to work with colleagues to catch-up on what you missed.
 
@@ -220,9 +220,9 @@ Students who cheat or plagiarize will receive academic sanctions, which may incl
 
 #### Using Code or Media Found Elsewhere
 
-It's super easy to find code and media (i.e. videos, sounds, images, etc.) online. If you use code or media from elsewhere (which you will at times), I expect you to cite the work and author. 
+It is easy to find code and media (i.e. videos, sounds, images, etc.) online. If you use code or media from elsewhere (which you will at times), I expect you to cite the work and author. 
 
-If you use found code, you are expected to comment each line, as to what each line does programmatically. _Do not_ summarize several lines of code from a high level (ie, TV Guide). I expect you to comment each line on a granular level. In addition, in these cases, I am also looking for significant modification of the code, for you to enact your own ideas and to experiment heavily. Significant modification means beyond variable name and value changes. It's bending these concepts to your idea, especially graphically. It's not a copy and paste job. Also, never more than 40% of your code may be supplied from elsewhere. Period. If you use code from online, whether for inspiration, modification or reference, I expect to see a link in your comments from where you got the code and who wrote it. Otherwise it will be considered as plagiarism, and you will fail the assignment. The code must have a reference, along with URL and be commented out LINE BY LINE.
+If you use found code, you are expected to comment each line, as to what each line does programmatically. _Do not_ summarize several lines of code from a high level (i.e., TV Guide). I expect you to comment each line on a granular level. In addition, in these cases, I am also looking for significant modification of the code, for you to enact your own ideas and to experiment heavily. Significant modification means beyond variable name and value changes. It is bending these concepts to your idea, especially graphically. It is not a copy and paste job. Also, never more than 40% of your code may be supplied from elsewhere. Period. If you use code from online, whether for inspiration, modification or reference, I expect to see a link in your comments from where you got the code and who wrote it. Otherwise it will be considered as plagiarism, and you will fail the assignment. The code must have a reference, along with URL and be commented out LINE BY LINE.
 
 If you use found media, *YOU* are responsible to ensure it is used according to fair-use guidelines. The pieces you make in this course are intended to be portfolio-quality works. Therefore, you should not utilize found media with restrictive use guidelines or licenses. You can read more about various licenses at;
 

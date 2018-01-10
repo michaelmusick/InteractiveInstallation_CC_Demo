@@ -36,8 +36,12 @@ The formal critique will occur the morning of Day 18.
 
 Strike will occur in the morning of Day 18, following crit.
 
-## Documentation
+## Collective Documentation
 
-Like previous projects, the group will be responsible for submitting a single set of documentation. This is to be completed collaboratively.
+Like previous projects, the group will be responsible for submitting a single set of documentation about the art work. This is to be completed collaboratively.
 
 *Unlike* previous projects, documentation is due at the time of critique. This means that documentation footage, editing, and writing will need to occur simultaneously with install and presentation. 
+
+## Individual Documentation
+
+For this project, you also need to submit a brief (1-page) document describing your work towards the final project. This document should also include a discussion of what knowledge, technical skills, and/or artistic skills you acquired.

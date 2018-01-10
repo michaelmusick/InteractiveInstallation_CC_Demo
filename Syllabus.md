@@ -3,12 +3,13 @@
 # Interactive Music 1; Installation<br/>(course #)<br/>Syllabus
 
 Date modified: 01-08-2018
+<br>
 
 **Table of Contents**
 
 - [Course Overview](#course-overview)
     - [Description](#description)
-	- [About the Professor](#professorinstructor)
+	- [Professor Information](#professor-information)
 	- [Course Websites](#course-websites)
 	- [Pre-Requisites](#pre-requisites)
 	- [Books & Supplies](#books--supplies)
@@ -28,9 +29,9 @@ Date modified: 01-08-2018
 
 _Interactive Music 1; Installation_ explores the theory and technique of interactive music and art.
 
-What is interactivity? What does it mean to create meaningful interactive experiences? In this hands-on course, students will learn how to create interactive installations and environments, with a primary focus on music and sound. We will talk about what it means to create an interactive experience for general participants. Scale, space, and time will be explored with reference to the body, while creating cybernetic systems for real-time and time-based interaction. Software, electronics, and physical computing will be discussed, with the goal of students creating physical projects. A variety of input and output mechanisms, networking, and best practices will be covered in lecture. Class discussions will cover readings about interactive music/art, design, space, and installation. Students are free to explore their own ideas through the lens of this course.
+What is interactivity? What does it mean to create meaningful interactive experiences? In this hands-on course, students will learn how to create interactive installations and environments, with a primary focus on music and sound. We will talk about what it means to create an interactive experience for general participants. Scale, space, and time will be explored with reference to the body, while creating cybernetic systems for real-time and time-based interaction. Software, electronics, and physical computing will be discussed, with the goal of students' creating physical projects. A variety of input and output mechanisms, networking, and best practices will be covered in lecture. Class discussions will cover readings about interactive music/art, design, space, and installation. Students are free to explore their own ideas through the lens of this course.
 
-This course will include a mix of reading, discussion, interactive development, projects, and tests.
+This course will include a mix of reading, discussion, interactive development, and projects.
 
 
 
@@ -140,10 +141,10 @@ This class will be participatory, and you are expected to participate in discuss
 Grades will be determined according to the following breakdown:
 
 - Show & Tell presentations: 10%
-- In-class discussions (readings & round-table feedback), critiques: 15%
-- Sketches 15%
+- In-class discussions (readings & round-table feedback), critiques: 10%
+- Project Sketches: 15%
 - Project 1: "Create an Sound Experience in a Space with Paper" 10%
-- Project 2: "Cybernetic System as Interactive Sound Installation" 20% 
+- Project 2: "Cybernetic System as Interactive Sound Installation" 25% 
 - Project 3: "Class Collective builds an Interactive Sound Installation" 30%
 
 Letters are assigned according to the following final course percentages:
@@ -160,36 +161,6 @@ Letters are assigned according to the following final course percentages:
 | C- 	| 70-73		|
 | D  	| 60-70		|
 | F  	| 0-59		|
-
-
-#### Project Grades
-
-For each project your grade will be assessed upon the following:
-
-- Principles
-- Creativity/Thoughtfulness
-- Craft
-
-Below gives you a sense of the spectrum, giving examples for high, middle and low grades.
-
-Please note:
-A letter grade of "C" is an average grade. An average level of work means that the work still has room to develop at it's current state. It also means that the work has noticeable achievements and evidence of some acquisition of knowledge. I look at this on an individual basis as well as across the whole class.
-
-Please read examples of each assessment point below to get an idea of my expectations. Note that a "B" is between Satisfactory and Superior.
-
-
-- **Principles:**
-	- Superior - A - Your work shows evidence and understanding of concepts discussed in readings, lectures, and exercises, as you bend them to your will.
-	- Satisfactory - C - Your work shows evidence of concepts and is still developing an understanding of course material. You understand some aspects, but are not utilizing them fully. Usage is cursory. Keep pushing your work and review the material to revisit how you can integrate it to your work.
-	- Unacceptable - D/F - Your work shows some evidence of concepts discussed, but lacks key understanding, confidence, robustness and authority. Aspects are lacking. Reviewing course material is required. Ask questions in class. Manage your time better.
-- **Creativity, Artistry, Thoughtfulness:**
-	- Superior - A - Your work demonstrates your personality and a great depth of engagement with the material. It’s extremely evident that you are thinking, exploring, playing and taking risks. You are creating wonderful experiences, music, sound art, and installations.
-	- Satisfactory - C - You are executing your ideas, but more time is needed to consider more deeply about what is conceptually and physically happening. They are barely getting off the ground. Or have large bits that are broken. Do more research and exploring. Play.
-	- Unacceptable - D/F - Your work is so straightforward that it’s flat. It’s barely coded (or badly broken). It is copied from elsewhere and not expanded upon. Question and iterate your work to push it further. Read. Play. Get off the lame track and get inspired.
-- **Craft:**
-	- Superior - A - Your work shows delicate care and consideration to presentation, experience, sound, and professionalism. You code, files, and builds are neat, clean, commented and structured. Your friends consider you “Type A.” Your style is evident.
-	- Satisfactory - C - Your work shows the birth of your ideas, but further time and iteration can really push your work to excel. Your technical deliverables are there, but messy. It can be simplified and made cleaner. What you put into it, is what you get out of it. Practice makes perfect!
-	- Unacceptable - D/F - Your work is rushed and looks like it was done on your train-ride in or the night before. Make your work something you are proud of. You are here to build your portfolio after all, aren’t you?
 
 
 #### Late Work
@@ -210,11 +181,11 @@ Documentation assignments handed in after the due date and time will have points
 
 ## Plagiarism & Cheating Policy
 
-Students are expected to adhere to academic conduct policies of the University, as explained in the [Student Conduct Code](#). All students should act with personal integrity, respect other students’ dignity, rights, and property, and help create and maintain an environment in which all can succeed.
+Students are expected to adhere to academic conduct policies of the University, as explained in the [Conduct Code](https://www.coloradocollege.edu/dotAsset/3fbd7ebd-e1ec-4aa2-9a01-a4b4bcf64b88.pdf). All students should act with personal integrity, respect other students’ dignity, rights, and property, and help create and maintain an environment in which all can succeed.
 
-Dishonesty will not be tolerated in this course. This includes, but is not limited to, cheating on tests, cheating on assignments, fabricating information or citations, having unauthorized possession of examinations, submitting work of another person or work previously used, or tampering with the academic work of other students.
+Dishonesty or cheating will not be tolerated in this course. This includes, but is not limited to, cheating on tests, cheating on assignments, fabricating information or citations, having unauthorized possession of examinations, submitting work of another person or work previously used, or tampering with the academic work of other students.
 
-Plagiarism is the presentation of the work of another without acknowledgement.  As defined by the [University of Montana’s Student Conduct Code](http://www.umt.edu/vpsa/policies/default.php), plagiarism is “Representing another person's words, ideas, data, or materials as one's own.”  Students may use information and ideas expressed by others, but this use must be identified by appropriate referencing.
+Plagiarism is representing another person's words, ideas, data, or materials as your own. Students may use information and ideas expressed by others, but this use must be identified by appropriate referencing.
 
 Students who cheat or plagiarize will receive academic sanctions, which may include an “F” grade on the assignment, examination, and/or in the course. Students will also be reported to the Dean of Students for possible further disciplinary action.
 
@@ -238,8 +209,7 @@ For found media, you are also expected to cite the media in your documentation f
 
 ## Students with Disabilities
 
-The University of Montana assures equal access to instruction through collaboration between students with disabilities, instructors, and Disability Services for Students. Students with disabilities are encouraged to plan ahead and can contact [Disability Services for Students (DSS)](http://www.umt.edu/dss/). If you think you may have a disability adversely affecting your academic performance, and you have not already registered with Disability Services, please contact Disability Services in Lommasson Center 154, or call (406)243-2243. I will work with you and Disability Services to provide an appropriate modification.
-
+Colorado College is committed to creating a learning environment that meets the needs of its diverse student body. If you anticipate or experience any disability-related barriers to learning in this course, please discuss your concerns and approved accommodation with me. I would like us to discuss ways to ensure your full participation in the course. Additionally, if you have not already done so, please connect with Accessibility Resources (Armstrong 211, 719-227-8285), the office responsible for coordinating accommodations and services for students with disabilities.
 
 
 

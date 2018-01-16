@@ -74,7 +74,7 @@ This course will conclude with an intensive collective installation project. The
     - This is were all course materials will be located.
 - [Slack Channel](#)
     - Slack is a communication tool used in industry, startups, and art teams. We will use this as our primary tool of communication for the class. You are **REQUIRED** to participate in Slack and check it regularly. (I would encourage you to download the Slack app for your computer and mobile devices.)
-    
+
 
 
 ## Pre-Requisites
@@ -91,11 +91,11 @@ You will also be expected to utilize previous experience in composition, music, 
 
 ## Books and Supplies
 
-There are no required texts that you must purchase for this course. All readings will be available to you through web links, the CC library access to journal databases, or the class Slack channel. 
+There are no required texts that you must purchase for this course. All readings will be available to you through web links, the CC library access to journal databases, or the class Slack channel.
 
 ### Other Supplies
 
-You will need access to a computer capable of running modern sound processing languages, digital audio workstations (DAWs), and a development environment. This computer should also be capable of real-time audio processing through analog inputs and outputs (i.e., using an audio interface). Please leverage CC resources whenever necessary. 
+You will need access to a computer capable of running modern sound processing languages, digital audio workstations (DAWs), and a development environment. This computer should also be capable of real-time audio processing through analog inputs and outputs (i.e., using an audio interface). Please leverage CC resources whenever necessary.
 
 Additionally, you will be expected to produce projects throughout the course. This may require minimal financial investments in materials from you. I will work to keep these to a minimum, and to utilize departmental/institutional resources when possible.
 
@@ -117,12 +117,12 @@ Student work and progress will be assessed through;
 
 #### Projects
 
-We will have three projects throughout the course that are relevant to material from recent content. 
+We will have three projects throughout the course that are relevant to material from recent content.
 
 Project grades will be based primarily on the student’s ability to:
 
 1.  Demonstrate an understanding of the specific characteristics and integrative capabilities of the assigned topic through artistic output, written documentation, and technical achievement (i.e., code).
-2.  Articulate a clear and concise perspective. 
+2.  Articulate a clear and concise perspective.
 3.  Present an organized artistic piece, as well as; technical report, file/program structure, and demo video.
 4.  Demonstrate creativity beyond the expected technical requirements.
 5.  Properly and punctually deliver all assignment files.
@@ -144,7 +144,7 @@ Grades will be determined according to the following breakdown:
 - In-class discussions (readings & round-table feedback), critiques: 10%
 - Project Sketches: 15%
 - Project 1: "Create an Sound Experience in a Space with Paper" 10%
-- Project 2: "Cybernetic System as Interactive Sound Installation" 25% 
+- Project 2: "Cybernetic System as Interactive Sound Installation" 25%
 - Project 3: "Class Collective builds an Interactive Sound Installation" 30%
 
 Letters are assigned according to the following final course percentages:
@@ -165,7 +165,7 @@ Letters are assigned according to the following final course percentages:
 
 #### Late Work
 
-IMPORTANT: Since projects are experienced as a group in class or through a public presentation, late projects are not permissable and will not be accepted. 
+IMPORTANT: Since projects are experienced as a group in class or through a public presentation, late projects are not permissible and will not be accepted. 
 
 Documentation assignments handed in after the due date and time will have points deducted for lateness. This will be in addition to any points deducted for content. Those that are uploaded late but within one day of the due date will lose 5% for lateness.  For those uploaded after that, the number of deducted points will be at the discretion of the professor.
 
@@ -191,7 +191,7 @@ Students who cheat or plagiarize will receive academic sanctions, which may incl
 
 #### Using Code or Media Found Elsewhere
 
-It is easy to find code and media (i.e. videos, sounds, images, etc.) online. If you use code or media from elsewhere (which you will at times), I expect you to cite the work and author. 
+It is easy to find code and media (i.e. videos, sounds, images, etc.) online. If you use code or media from elsewhere (which you will at times), I expect you to cite the work and author.
 
 If you use found code, you are expected to comment each line, as to what each line does programmatically. _Do not_ summarize several lines of code from a high level (i.e., TV Guide). I expect you to comment each line on a granular level. In addition, in these cases, I am also looking for significant modification of the code, for you to enact your own ideas and to experiment heavily. Significant modification means beyond variable name and value changes. It is bending these concepts to your idea, especially graphically. It is not a copy and paste job. Also, never more than 40% of your code may be supplied from elsewhere. Period. If you use code from online, whether for inspiration, modification or reference, I expect to see a link in your comments from where you got the code and who wrote it. Otherwise it will be considered as plagiarism, and you will fail the assignment. The code must have a reference, along with URL and be commented out LINE BY LINE.
 
@@ -252,7 +252,7 @@ I reserve the right to change the intended content of this course throughout the
 **TODO:**
 
 - Reading for Day 2.
-- Project 1 sketches with partner for Day 2. 
+- Project 1 sketches with partner for Day 2.
 
 
 
@@ -279,8 +279,8 @@ I reserve the right to change the intended content of this course throughout the
 ## Day 3
 
 - Class discussion of _Installation Art_
-    - Please read: 
-        - "Introduction: Installation Art and Experience" from, 
+    - Please read:
+        - "Introduction: Installation Art and Experience" from,
             - Bishop, Claire. _Installation Art_. London, UK: Tate, 2010.
         - Available from the course slack channel.
 - Lecture on General Topics and Specific Examples of Installation Art
@@ -311,11 +311,11 @@ I reserve the right to change the intended content of this course throughout the
         - "Introduction; At, Out, About" from,
             - Kim-Cohen, Seth. _In the Blink of an Ear: Toward a Non-Cochlear Sonic Art_. New York, New York, USA: The Continuum International Publishing Group Inc, 2009.
             - Available from the class Slack channel
-        - Ella, Delany. “The Power of Sound as an Art Form.” The New York Times, 3 Oct. 2013. 
+        - Ella, Delany. “The Power of Sound as an Art Form.” The New York Times, 3 Oct. 2013.
             - http://www.nytimes.com/2013/10/04/arts/international/The-Power-of-Sound-as-an-Art-Form.html
 - Lecture on General Topics and Specific Examples of Sound Art.
 - Show & Tell - Presentation 3; Sabrina Raaf & David Rokeby (interactive installations)
-- Workshop of various output transducers 
+- Workshop of various output transducers
     - full-range studio monitors
     - PA speakers
     - small speakers (consumer, cost-effective, band-limited, compositional opportunities)
@@ -359,7 +359,7 @@ I reserve the right to change the intended content of this course throughout the
 
 **TODO:**
 
-- Work on Project 2. 
+- Work on Project 2.
 
 
 
@@ -373,14 +373,14 @@ For this class, we will meet at two locations, where we will;
 - Experience a number of a pieces
 - Discuss these pieces
 - Discuss the presentation of these pieces
-- Discuss how these works relate to the pieces you will install and present on Day 9. 
+- Discuss how these works relate to the pieces you will install and present on Day 9.
 
 Please note: This will be an extended class day.
 
-You are to first meet at (*depends on current showings, but most likely one of the following*) 
+You are to first meet at (*depends on current showings, but most likely one of the following*)
 
 - the [David B. Smith Gallery](http://www.davidbsmithgallery.com)
-    - 1543 A Wazee Street, Denver, CO 80202 
+    - 1543 A Wazee Street, Denver, CO 80202
 - [Understudy](http://understudydenver.com)
     - 890 C 14th St., Denver, CO 80202
 
@@ -401,7 +401,7 @@ We will then also travel to the [Museum of Contemporary Art Denver](https://mcad
     - *I Hear NY3D*
     - ICMC 2018, Computer Music Installations in S. Korea
 - Show & Tell - Presentation 5; Camille Utterback & Tangible Interaction (interactive installations)
-  
+
 **TODO:**
 
 - Finish Project 2 and prepare or start install for presentations on Day 9.
@@ -417,8 +417,8 @@ We will then also travel to the [Museum of Contemporary Art Denver](https://mcad
 
 - There will be a public showing of Project 2 installations from 4pm-7:30pm.
 - Please have your work fully installed and ready by 4pm.
-- We will have a formal critique with the entire class from 7:30pm-8:30pm. 
-- Strike will occur from 8:30pm-9pm. Please remove all materials. 
+- We will have a formal critique with the entire class from 7:30pm-8:30pm.
+- Strike will occur from 8:30pm-9pm. Please remove all materials.
 
 **Due:**
 
@@ -444,7 +444,7 @@ We will then also travel to the [Museum of Contemporary Art Denver](https://mcad
     - Discussion of documentation
 - Show & Tell - Presentation 7; Tristan Perich & Janet Cardiff (sound art & installation)
 - Sketch presentations and discussions of [Project 3](https://github.com/michaelmusick/InteractiveInstallation_CC_Demo/tree/master/Projects/Project_3/)
-- Coalesce Idea for Project 3 
+- Coalesce Idea for Project 3
 - Project 3 Work
     - Map out artistic and technical sub-problems
     - Create initial schedule with internal deadlines
@@ -525,7 +525,7 @@ Final class day to work on Project 3 with instructor.
 
 ## Day 16 (Install Day in the Space)
 
-- Install the work in the space. 
+- Install the work in the space.
 - Test art work for potential technical failures.
     - Address and fix any potential technical failures.
 - Gather documentation audio/video using high-quality capture devices

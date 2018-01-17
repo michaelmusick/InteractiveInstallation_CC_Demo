@@ -1,4 +1,4 @@
-# Project 1 -- Create an Sound Experience in a Space with Paper
+# Project 1 -- Create a Sound Experience in a Space with Paper
 
 10% of your Final Grade
 
@@ -10,34 +10,34 @@
 
 ## Materials: paper, painters tape, parcel string
 
-Working in teams of two, using only paper (you provide), tape (see below), & string (see below) and a location in the music building transform or create a space. This is a space that the body can travel through or be within and that touches on sound in some way. Ultimately, your goal is to create an sound experience in a space for the participant, *not* an object. 
+Working in teams of two, using only paper (you provide), tape (see below), & string (see below) and a location in the music building transform or create a space. This is a space that the body can travel through or be within and that touches on sound in some way. Ultimately, your goal is to create an sound experience in a space for the participant, *not* an object.
 
 Possible considerations:
 
 - How is this experience for the viewer different at different locations in this space?
-- Consider how people currently move through the space. 
-    - How could you change that? 
-    - How could you play with scale? 
-    - How could you play with texture? 
+- Consider how people currently move through the space.
+    - How could you change that?
+    - How could you play with scale?
+    - How could you play with texture?
     - How could you play with openings?
 - Consider how the space currently sounds.
-    - How could you change that? 
+    - How could you change that?
     - How could you highlight different sounds in the space?
     - How could you add new sounds in the space?
-    - How could you play with scale? 
-    - How could you play with texture? 
-- Consider how you can manipulate the paper; 
-    - layer it 
+    - How could you play with scale?
+    - How could you play with texture?
+- Consider how you can manipulate the paper;
+    - layer it
     - crumble it
     - break it into pieces
     - burn it
     - write/paint on it
     - fold it
-    - hang it 
-    - etc. 
+    - hang it
+    - etc.
     - It has a million affordances.
 
-The goal of this project is to begin thinking about a space, how to create space, and how to control sound in that space. 
+The goal of this project is to begin thinking about a space, how to create space, and how to control sound in that space.
 
 Forget about technology or making something interactive. Object making tends to be easier than thinking about how to create spaces. This project challenges you to separate from those things, in order to think about space, scale, and sound. This class is all about creating work that takes over or is coupled with a space, not just objects & technology existing in a space/gallery.
 
